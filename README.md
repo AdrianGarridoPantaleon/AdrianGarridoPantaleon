@@ -1,5 +1,5 @@
-### ✨Mi nombre es Adrián Garrido Pantaleón, soy ingeniero informático y aquí será donde publique mis proyectos, intereses, aprendizajes y muchas mas cosas✨
-### Comenzemos😜
+# Hola, mi nombre es Adrián Garrido Pantaleón 👋
+### Ingeniero informático especializado en IT
 
 <!--
 **AdrianGarridoPantaleon/AdrianGarridoPantaleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
