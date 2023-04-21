@@ -1,17 +1,19 @@
-# Hola, mi nombre es Adrián Garrido Pantaleón 👋
-### 💻Ingeniero informático especializado en IT
+# Hi, my name is Adrián Garrido Pantaleón 👋
+### 💻Computer Engineer specializing in IT
 
-<!--
-**AdrianGarridoPantaleon/AdrianGarridoPantaleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Introduction -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Your badges -->
+
+
+<!-- Profile View Count -->
+
+
+<!-- Working GIF -->
+
+### 💼  Things that I'm currently working on: 
+
+### 🌱 Challenges that I’m currently challenging myself:
+
+### Languages and Tools:
