@@ -1,6 +1,5 @@
-![Header image]("https://raw.githubusercontent.com/AdrianGarridoPantaleon/Imagenes/master/Header.png")
+![Header](https://user-images.githubusercontent.com/83289785/233787375-03a0c6fd-5000-4c8e-a3c9-57685fb1a76f.png)
 
-# Hi, my name is Adrián Garrido Pantaleón 👋
 ### 💻 Computer Engineer specializing in IT
 
 <!--Introduction -->
