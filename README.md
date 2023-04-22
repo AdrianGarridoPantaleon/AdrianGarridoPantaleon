@@ -1,4 +1,4 @@
-![Header (1)](https://user-images.githubusercontent.com/83289785/233787797-d0dfdb1c-4bee-4604-a1b8-56501d3e2602.png)
+![Header](https://user-images.githubusercontent.com/83289785/233787917-a00b046a-bfa0-4343-95cd-ac29887599eb.png)
 
 ### 💻 Computer Engineer specializing in IT
 
