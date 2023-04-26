@@ -20,7 +20,7 @@
 ### 🧰 Languages and Tools:
 
 [<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGarridoPantaleon&layout=compact&theme=dark)](https://github.com/AdrianGarridoPantaleon)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGarridoPantaleon&layout=compact&theme=codeSTACKr)](https://github.com/AdrianGarridoPantaleon)
 </div>
 
 </br>
