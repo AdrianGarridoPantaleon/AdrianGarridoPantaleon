@@ -2,19 +2,8 @@
 
 ### 💻 Computer Engineer specializing in IT
 
-<!--Introduction -->
-
-
-<!-- Your badges -->
-
-
-<!-- Profile View Count -->
-
-
-<!-- Working GIF -->
-
 ### 💼 Things that I'm currently working on: 
-
+#### 🔭 Physics: </br> Technical specialist carrying out activities or scientific-technical services will be developed within the framework of the Research Line "Programmable diffractive optics: structured light and polarimetry".
 ### 🌱 Challenges that I’m currently challenging myself:
 
 ### 🧰 Languages and Tools:
